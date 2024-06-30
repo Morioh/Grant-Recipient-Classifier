@@ -388,8 +388,9 @@ In simpler terms, this model excels at correctly identifying both positive and n
 
 1. Set Up the Environment:
 
-Ensure you have Python installed. It's recommended to use Python 3.6 or higher.
-Install the necessary libraries:
+. Ensure you have Python installed. It's recommended to use Python 3.6 or higher.
+
+. Install the necessary libraries:
 ```
 bash
 
@@ -397,19 +398,23 @@ pip install numpy pandas seaborn matplotlib tensorflow scikit-learn
 ```
 2. Load and Preprocess Data:
 
-Make sure your data is in a CSV file format.
-Load the data using pandas, preprocess it (standardization), and split it into training, validation, and testing sets.
-Define and Train Models:
+. Make sure your data is in a CSV file format.
 
-3. Define your models using TensorFlow and Keras.
+. Load the data using pandas, preprocess it (standardization), and split it into training, validation, and testing sets.
 
-Train the models on the training data and validate them on the validation data.
-Save the models after training.
-Evaluate Models:
+3. Define and Train Models:
 
-4. Load the saved models.
+. Define your models using TensorFlow and Keras.
 
-Evaluate their performance on the test data using various metrics (Precision, Recall, F1 Score, ROC-AUC).
+. Train the models on the training data and validate them on the validation data.
+
+. Save the models after training.
+
+4. Evaluate Models:
+
+. Load the saved models.
+
+. Evaluate their performance on the test data using various metrics (Precision, Recall, F1 Score, ROC-AUC).
 
 5. Compare Models:
 
@@ -419,24 +424,24 @@ Compare the models based on the evaluation metrics to determine which one perfor
 
 1. Upload your data to Google Colab:
 
-Use the file upload button in Colab to upload your CSV file.
-Alternatively, use Google Drive to store and access your data.
+. Use the file upload button in Colab to upload your CSV file.
+. Alternatively, use Google Drive to store and access your data.
 
 2. Install Libraries:
 
-Libraries like pandas, tensorflow, and scikit-learn can be installed using pip if they are not pre-installed.
+. Libraries like pandas, tensorflow, and scikit-learn can be installed using pip if they are not pre-installed.
 
 3. Execute the Notebook:
 
-Copy the provided code cells into a new Colab notebook.
-Execute the cells sequentially.
+. Copy the provided code cells into a new Colab notebook.
+. Execute the cells sequentially.
 
 4. Saving Models:
 
-Save the trained models to your Google Drive or Colab storage to access them later.
+. Save the trained models to your Google Drive or Colab storage to access them later and locally if you choose to.
 
 5. Evaluate and Compare Models:
 
-Run the evaluation code cells to calculate and compare the metrics for different models.
+. Run the evaluation code cells to calculate and compare the metrics for different models.
 
 
