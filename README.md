@@ -312,31 +312,31 @@ The model's accuracy was 95.45%
 
 Trainning and validation loss:
 
-![alt text](<Graphs/Model 1 Training and Validation Loss.png>)
+![Picture of the Graph of Model 1 Training and Validation Loss](<Graphs/Model 1 Training and Validation Loss.png>)
 
 Training and validation accuracy:
 
-![alt text](<Graphs/Model 1 Training and Validation Accuracy.png>)
+![Picture of the Graph of Model 1 Training and Validation Accuracy](<Graphs/Model 1 Training and Validation Accuracy.png>)
 
 ## 2. Regularized Neural Network
 
 Trainning and validation loss:
 
-![alt text](<Graphs/Model 2 Training and Validation Loss.png>)
+![Picture of the Graph of Model 2 Training and Validation Loss](<Graphs/Model 2 Training and Validation Loss.png>)
 
 Training and validation accuracy:
 
-![alt text](<Graphs/Model 2 Training and Validation Accuracy.png>)
+![Picture of the Graph of Model 2 Training and Validation Accuracy](<Graphs/Model 2 Training and Validation Accuracy.png>)
 
 ## 3. Advanced Regularized Neural Network
 
 Trainning and validation loss:
 
-![alt text](<Graphs/Model 3 Training and Validation Loss.png>)
+![Picture of the Graph of Model 3 Training and Validation Loss](<Graphs/Model 3 Training and Validation Loss.png>)
 
 Training and validation accuracy:
 
-![alt text](<Graphs/Model 3 Training and Validation Accuracy.png>)
+![Picture of the Graph of Model 3 Training and Validation Accuracy](<Graphs/Model 3 Training and Validation Accuracy.png>)
 
 #### The “L2 + Dropout + BatchNorm + Scheduler” Performance
 
@@ -379,4 +379,4 @@ Here's why the "L2 + Dropout + BatchNorm + Scheduler" model shines:
 
 In simpler terms, this model excels at correctly identifying both positive and negative instances, making it the most reliable choice based on the metrics as shown in the graph below.
 
-![alt text](<graphs/Comparison of Precision, Recall, F1 Score, and ROC-AUC Score.png>)
+![Picture of the Graph of the Comparison of Precision, Recall, F1 Score, and ROC-AUC Score](<graphs/Comparison of Precision, Recall, F1 Score, and ROC-AUC Score.png>)
