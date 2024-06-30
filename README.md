@@ -312,31 +312,31 @@ The model's accuracy was 95.45%
 
 Trainning and validation loss:
 
-![Picture of the Graph of Model 1 Training and Validation Loss](<Graphs/Model 1 Training and Validation Loss.png>)
+![Picture of the Graph of Model 1 Training and Validation Loss](<graphs/Model 1 Training and Validation Loss.png>)
 
 Training and validation accuracy:
 
-![Picture of the Graph of Model 1 Training and Validation Accuracy](<Graphs/Model 1 Training and Validation Accuracy.png>)
+![Picture of the Graph of Model 1 Training and Validation Accuracy](<graphs/Model 1 Training and Validation Accuracy.png>)
 
 ## 2. Regularized Neural Network
 
 Trainning and validation loss:
 
-![Picture of the Graph of Model 2 Training and Validation Loss](<Graphs/Model 2 Training and Validation Loss.png>)
+![Picture of the Graph of Model 2 Training and Validation Loss](<graphs/Model 2 Training and Validation Loss.png>)
 
 Training and validation accuracy:
 
-![Picture of the Graph of Model 2 Training and Validation Accuracy](<Graphs/Model 2 Training and Validation Accuracy.png>)
+![Picture of the Graph of Model 2 Training and Validation Accuracy](<graphs/Model 2 Training and Validation Accuracy.png>)
 
 ## 3. Advanced Regularized Neural Network
 
 Trainning and validation loss:
 
-![Picture of the Graph of Model 3 Training and Validation Loss](<Graphs/Model 3 Training and Validation Loss.png>)
+![Picture of the Graph of Model 3 Training and Validation Loss](<graphs/Model 3 Training and Validation Loss.png>)
 
 Training and validation accuracy:
 
-![Picture of the Graph of Model 3 Training and Validation Accuracy](<Graphs/Model 3 Training and Validation Accuracy.png>)
+![Picture of the Graph of Model 3 Training and Validation Accuracy](<graphs/Model 3 Training and Validation Accuracy.png>)
 
 #### The “L2 + Dropout + BatchNorm + Scheduler” Performance
 
