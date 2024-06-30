@@ -418,7 +418,7 @@ pip install numpy pandas seaborn matplotlib tensorflow scikit-learn
 
 5. Compare Models:
 
-Compare the models based on the evaluation metrics to determine which one performs best.
+. Compare the models based on the evaluation metrics to determine which one performs best.
 
 ## Remotely (Notebook in Google Colabs)
 
